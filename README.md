@@ -3,7 +3,7 @@
 This is a **demo version** of the Selenium Automation Framework.
 
 👉 Get the complete version here:
-[YOUR WHOP LINK]
+[https://whop.com/testforge-labs/selenium-automation-framework-pro]
 
 ### 🔥 Full Version Includes:
 - CI/CD pipeline with GitHub Actions
