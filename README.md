@@ -200,8 +200,13 @@ pip install -r requirements.txt
 
 ## 11. 🔖 License
 
-This project is licensed under the **MIT License**.
-Feel free to modify and use for educational or professional use.
+This repository contains a demo version.
+
+All rights reserved © Saahil Parmar
+
+For full version:
+👉 [Your Whop Link]
+
 ## 12. 👨‍💻 Author
 
 **Saahil Parmar**
