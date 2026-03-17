@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jun 27 06:00:54 UTC 2025","Fri Jun 27 06:00:58 UTC 2025","4702","tests","test_login","","","","test_login_success",""
