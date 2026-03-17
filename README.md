@@ -1,3 +1,18 @@
+## 🚀 Get the Full Production-Ready Framework
+
+This is a **demo version** of the Selenium Automation Framework.
+
+👉 Get the complete version here:
+[YOUR WHOP LINK]
+
+### 🔥 Full Version Includes:
+- CI/CD pipeline with GitHub Actions
+- Advanced logging system
+- Complete test suite
+- Production-ready architecture
+- Full documentation & setup guides
+
+
 # Selenium Automation Framework ✅
 
 A complete **Selenium + Pytest test automation framework** designed for cross-browser testing, Allure reporting, and CI/CD integration with GitHub Actions.
