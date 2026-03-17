@@ -1,0 +1,10 @@
+All Rights Reserved © Saahil Parmar
+
+This project is for demonstration purposes only.
+
+You may NOT:
+- Use this code in commercial projects
+- Modify and redistribute this code
+- Sell or sublicense this code
+
+Unauthorized use is strictly prohibited.
